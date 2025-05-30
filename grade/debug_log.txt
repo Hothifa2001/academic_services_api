@@ -1,0 +1,9 @@
+Array
+(
+    [academic_id] => 1234567890
+    [course_id] => 54
+    [academic_year] => 2025
+    [attendance_grade] => 30
+    [midterm_grade] => 30
+    [assignment_grade] => 30
+)
